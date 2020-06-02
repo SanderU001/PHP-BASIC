@@ -7,9 +7,12 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $myMovies = array("Harry Potter ", "The Joker ", "MazeRunner ");
+
+        echo $myMovies[0];
+        echo $myMovies[1];
+        echo $myMovies[2];
+
     ?>
 </body>
 </html>

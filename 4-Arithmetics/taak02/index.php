@@ -7,9 +7,18 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $getal1 = 4;
+        $getal2 = 2;
+
+        echo $getal1 += 10;
+        echo $getal1 -= 10;
+        echo $getal1 *= 10;
+        echo $getal1 /= 10;
+
+
+
+
+
     ?>
 </body>
 </html>

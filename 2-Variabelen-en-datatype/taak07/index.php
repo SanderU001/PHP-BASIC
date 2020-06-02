@@ -7,9 +7,15 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $voornaam = "Sander";
+        $achternaam = "Uterwijk";
+        $leeftijd = "19 jaar";
+
+        echo 'Ik ben ' . $voornaam . ' ' . $achternaam . ' en ik ben ' . $leeftijd . ' oud';
+
     ?>
+
+
+
 </body>
 </html>

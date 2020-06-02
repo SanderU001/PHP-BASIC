@@ -6,10 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
-    ?>
+    <ul> <a href="producten.php">Producten</ul> </a>
 </body>
 </html>

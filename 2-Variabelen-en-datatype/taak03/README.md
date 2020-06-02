@@ -26,13 +26,13 @@ In PHP heb je verschillende soorten datatypes namelijk:
 * Een **float** kan zowel een positief als een negatief getal zijn
 
 ## Leerdoelen
->1. [ ] Ik weet wat de verschillende datatypes zijn
->2. [ ] Ik maak een integer variabele aan in PHP
->3. [ ] Ik maak een float variabele aan in PHP
->4. [ ] Ik volg de juiste regels voor het maken van een variabele 
->5. [ ] Ik volg de juiste regels voor het maken van een integer
->6. [ ] Ik volg de juiste regels voor het maken van een float
->7. [ ] Ik kan de waarde van de variabele op het scherm tonen
+>1. [x] Ik weet wat de verschillende datatypes zijn
+>2. [x] Ik maak een integer variabele aan in PHP
+>3. [x] Ik maak een float variabele aan in PHP
+>4. [x] Ik volg de juiste regels voor het maken van een variabele 
+>5. [x] Ik volg de juiste regels voor het maken van een integer
+>6. [x] Ik volg de juiste regels voor het maken van een float
+>7. [x] Ik kan de waarde van de variabele op het scherm tonen
 
 ## Opdracht
 

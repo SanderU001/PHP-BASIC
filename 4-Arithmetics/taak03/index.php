@@ -7,9 +7,9 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $score = 10;
+        echo ++$score;
+
     ?>
 </body>
 </html>

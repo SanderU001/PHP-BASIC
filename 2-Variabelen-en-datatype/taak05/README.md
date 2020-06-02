@@ -18,7 +18,7 @@ Stel we hebben een variabele `$voornaam` met de waarde Tom en we willen weten wa
     echo gettype($voornaam);
 ```
 ## Leerdoelen
->1. [ ] Ik weet wat gettype() is
+>1. [x] Ik weet wat gettype() is
 
 ## Opdracht
 

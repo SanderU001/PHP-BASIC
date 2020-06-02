@@ -7,9 +7,10 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $voornaam = "Sander";
+        var_dump($voornaam);
     ?>
+
+
 </body>
 </html>

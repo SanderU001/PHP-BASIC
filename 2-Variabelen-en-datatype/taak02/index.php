@@ -7,9 +7,9 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $MyName = "Sander Uterwijk";
+
+        echo 'Mijn naam is ' . $MyName;
     ?>
 </body>
 </html>

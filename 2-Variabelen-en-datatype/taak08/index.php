@@ -7,9 +7,11 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $naam1 = "Bas";
+        $naam2 = "Max";
+        $naam3 = "Sander";
+
+        echo "<li>$naam1</li><li>$naam2</li><li>$naam3</li>";
     ?>
 </body>
 </html>

@@ -2,10 +2,10 @@
 
 function getInput()
 {
-    $input = $_GET['input'] ?? 'vul een waarde in hierboven en klik op [check]';
+    $input = $_GET['input'] ?? ' ';
     echo $input;
+    echo gettype($input);
 }
-
 
 function getProductNr()
 {
@@ -24,5 +24,4 @@ function getAge()
     $leeftijd = $_GET['leeftijd'] ?? 'vul een leeftijd in!';
     echo $leeftijd;
 }
-
 ?>

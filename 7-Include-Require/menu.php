@@ -6,10 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
-    ?>
+        <?php
+            echo "<li>Menu-item1</li>";
+            echo "<li>Menu-item2</li>";
+            echo "<li>Menu-item3</li>";
+
+
+
+        ?>
 </body>
 </html>

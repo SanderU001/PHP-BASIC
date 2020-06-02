@@ -7,9 +7,11 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        $myCatNames =  ['tijger', 'mickey', 'tijger'];
+
+        $myCatNames[1] = 'Hond';
+
+        echo $myCatNames[0] . $myCatNames[1] . $myCatNames[2];
     ?>
 </body>
 </html>

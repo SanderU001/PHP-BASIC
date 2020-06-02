@@ -6,10 +6,14 @@
     <title>Document</title>
 </head>
 <body>
+<div class="menu">
+<?php include 'menu.php';?>
+</div>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+
+
+
+
     ?>
 </body>
 </html>

@@ -7,9 +7,7 @@
 </head>
 <body>
     <?php
-        $waarde = 0;
-        
-        echo 'De waarde is ' . $waarde;
+        echo "<ul> footer-item1</ul>"
     ?>
 </body>
 </html>
